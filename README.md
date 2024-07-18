@@ -1,16 +1,18 @@
 # chat_app
 
-A new Flutter project.
+A minimal chat app, first release
 
-## Getting Started
+# functions i want to implement:
 
-This project is a starting point for a Flutter application.
+sending pictures, voices, documents
+personalized home page
+search function for users
+wallpapers
+etc..
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# some screen shots
+![Ekran görüntüsü 2024-07-18 132013](https://github.com/user-attachments/assets/a97f6bd8-b648-4594-b382-36ebce2cee3d)
+![Ekran görüntüsü 2024-07-18 132022](https://github.com/user-attachments/assets/82cc6fe7-8a72-41ec-a2e4-bd1591b808cb)
+![Ekran görüntüsü 2024-07-18 132003](https://github.com/user-attachments/assets/084183ec-5e43-4aea-aabb-d1277059e121)
+![Ekran görüntüsü 2024-07-18 131946](https://github.com/user-attachments/assets/3c1a446f-dffc-49fc-a055-ca46470591f3)
+![Ekran görüntüsü 2024-07-18 135402](https://github.com/user-attachments/assets/e8ea63c4-601d-4188-894c-54f7e4a4320f)
